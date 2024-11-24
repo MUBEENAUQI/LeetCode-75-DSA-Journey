@@ -1,15 +1,17 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
-        StringBuilder ans = new StringBuilder();
+
+        StringBuilder ans = new StringBuilder(); //due to mutability
         int l1 = word1.length();
         int l2 = word2.length();
         int i=0;
-        while(i<l1 && i<l2){
+
+        while(i<l1 && i<l2){ //gets the smallest word completely
             ans = ans.append(word1.charAt(i));
             ans = ans.append(word2.charAt(i));
             i++;
         }
-
+        //gets the rest of largest word
         if(i<l1){
             ans = ans.append(word1.substring(i,l1));
         }
