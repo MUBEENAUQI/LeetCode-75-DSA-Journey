@@ -25,7 +25,10 @@ Each day focuses on specific topics and problem-solving skills.
 | 2   | **               | **  |
 | 3   | **                | **             |
 
-
+## Connect
+If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
+- https://linkedin.com/in/mubeena-kabeer/
+- mubeenauqi@gmail.com
 
 
 
