@@ -13,15 +13,15 @@ The LeetCode 75 Study Plan is a curated list of problems aimed at strengthening 
 Each day focuses on specific topics and problem-solving skills.
 
 ## Solutions and Topics
-> Day 1: (Problem Names)
-- Problem 1: Name of Problem
+> Day 1: 25/11/2024
+- Problem 1: Merge strings alternatively
 - Problem 2: Name of Problem
 
 ## Progress
 
 | Day | Problems Solved | Topics Covered            |
 | --- | --------------- | ------------------------- |
-| 1   | **               |**       |
+| 1   | 1               |String, String builder, time complexity       |
 | 2   | **               | **  |
 | 3   | **                | **             |
 
