@@ -14,8 +14,8 @@ Each day focuses on specific topics and problem-solving skills.
 
 ## Solutions and Topics
 > Day 1: 25/11/2024
-- Problem 1: Merge strings alternatively
-- Problem 2: Name of Problem
+- Problem 1: Merge strings alternatively (1894)
+- Problem 2: Greatest Common Divisor of Strings (1071)
 
 ## Progress
 
