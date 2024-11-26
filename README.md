@@ -15,7 +15,7 @@ Each day focuses on specific topics and problem-solving skills.
 ## Progress
 
 | Day |Date| Problems Solved | Topics Covered            | Questions|
-| --- | --| --------------- | ------------------------- ||
+| --- | --| --------------- | ------------------------- |---|
 | 1   | 25/11/2024 |1               |String, String builder, time complexity       | Merge strings alternatively (1894) |
 | 2   | 27/11/2024 | 1               | String, GCD, Maths logic  | Greatest Common Divisor of Strings (1071)|
 | 3   || **                | **             | |
