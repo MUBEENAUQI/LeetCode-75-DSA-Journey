@@ -12,18 +12,13 @@ The LeetCode 75 Study Plan is a curated list of problems aimed at strengthening 
 - Hard
 Each day focuses on specific topics and problem-solving skills.
 
-## Solutions and Topics
-> Day 1: 25/11/2024
-- Problem 1: Merge strings alternatively (1894)
-- Problem 2: Greatest Common Divisor of Strings (1071)
-
 ## Progress
 
-| Day | Problems Solved | Topics Covered            |
-| --- | --------------- | ------------------------- |
-| 1   | 1               |String, String builder, time complexity       |
-| 2   | **               | **  |
-| 3   | **                | **             |
+| Day |Date| Problems Solved | Topics Covered            | Questions|
+| --- | --| --------------- | ------------------------- ||
+| 1   | 25/11/2024 |1               |String, String builder, time complexity       | Merge strings alternatively (1894) |
+| 2   | 27/11/2024 | 1               | String, GCD, Maths logic  | Greatest Common Divisor of Strings (1071)|
+| 3   || **                | **             | |
 
 ## Connect
 If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
