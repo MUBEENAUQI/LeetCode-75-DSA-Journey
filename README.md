@@ -18,8 +18,9 @@ Each day focuses on specific topics and problem-solving skills.
 | --- | --| --------------- | ------------------------- |---|-----|
 | 1   | 25/11/2024 |1               |String, String builder, time complexity       | Merge strings alternatively (1894) | Easy |
 | 2   | 27/11/2024 | 1               | String, GCD, Maths logic  | Greatest Common Divisor of Strings (1071)|Easy |
-| 3   |28/11/2024 | 1                | List, add bolean to list            | Kids With the Greatest Number of Candies (1431)|Easy |
-
+| 3   |28/11/2024 | 1                | List, add boolean to list            | Kids With the Greatest Number of Candies (1431)|Easy |
+| 4   |29/11/2024 | 1                |  Logical thinking           | Can Place Flowers (605)|Easy |
+ 
 ## Connect
 If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
 - https://linkedin.com/in/mubeena-kabeer/
