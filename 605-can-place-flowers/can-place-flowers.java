@@ -16,23 +16,25 @@ class Solution {
             return false;
         }
 
-        int f = flowerbed[0];
-        for(int i=0;i<flowerbed.length-1;i++){
+        if(flowerbed[0] == 0 && flowerbed[1] == 0){
+            n--;
+           flowerbed[0] =1; 
+        }
+         
+
+        for(int i=1;i<flowerbed.length-1;i++){
             
-            if(flowerbed[i] == 0 && flowerbed[i+1] == 0 && f==0){
+            if(flowerbed[i] == 0 && flowerbed[i+1] == 0 && flowerbed[i-1] ==0){
                 n--;
-                f=1;
-            }
-            else{
-                f=flowerbed[i];
+                flowerbed[i] =1;
             }
 
-            if(n==0){
+           if(n==0){
                 return true;
             }
         }
 
-        if(flowerbed[s-1] == 0 && flowerbed[s-2] == 0 && f==0)
+        if(flowerbed[s-1] == 0 && flowerbed[s-2] == 0)
          n--;
 
         if(n==0)
