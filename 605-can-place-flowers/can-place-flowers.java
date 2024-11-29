@@ -12,11 +12,7 @@ class Solution {
             return false;
         }
 
-        // if(s==2 && (flowerbed[0] == 1 ||flowerbed[1] == 1)){
-        //     return false;
-        // }
-
-        if(flowerbed[0] == 0 && flowerbed[1] == 0){
+       if(flowerbed[0] == 0 && flowerbed[1] == 0){
             n--;
            flowerbed[0] =1; 
         }
