@@ -14,13 +14,16 @@ Each day focuses on specific topics and problem-solving skills.
 
 ## Progress
 
-| Day |Date| Problems Solved | Topics Covered            | Questions| Difficulty|
-| --- | --| --------------- | ------------------------- |---|-----|
-| 1   | 25/11/2024 |1               |String, String builder, time complexity       | Merge strings alternatively (1894) | Easy |
-| 2   | 27/11/2024 | 1               | String, GCD, Maths logic  | Greatest Common Divisor of Strings (1071)|Easy |
-| 3   |28/11/2024 | 1                | List, add boolean to list            | Kids With the Greatest Number of Candies (1431)|Easy |
-| 4   |29/11/2024 | 2                |  Logical thinking, string builder functions          | Can Place Flowers (605),Reverse Vowels of a String (345)|Easy |
- 
+# **Java DSA Progress Tracker**
+
+| **Q.no** | **Date**       | **Topics Covered** | **Questions Solved**           | **Difficulty Level** |
+|---------|----------------|--------------------|------------------------------|-----------------------|
+| 1       | 25/11/2024     | String manipulation, StringBuilder, Time Complexity | Merge Strings Alternatively (1894)                    | 🟢 Easy              |
+| 2       | 27/11/2024     |  String, GCD, Mathematical Logic             | Greatest Common Divisor of Strings (1071)                     | 🟢 Easy              |
+| 3       | 28/11/2024     |Lists, Boolean Operations                   | Kids With the Greatest Number of Candies (1431)              | 🟢 Easy              |
+| 4,5       | 29/11/2024     | Logical Thinking, StringBuilder Functions   | Can Place Flowers (605), Reverse Vowels of a String (345)       | 🟢 Easy              |
+| 6       | 08/12/2024     | split string for more than multiple places   |  Reverse Words in a String  (151)    | 🟡 Medium          |
+| 7       | 09/12/2024     | Logical maths thinking   |  Product of Array Except Self  (238)    | 🟡 Medium          |
 ## Connect
 If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
 - https://linkedin.com/in/mubeena-kabeer/
