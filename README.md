@@ -24,8 +24,8 @@ Each day focuses on specific topics and problem-solving skills.
 | 4,5       | 29/11/2024     | Logical Thinking, StringBuilder Functions|Can Place Flowers (605), Reverse Vowels of a String (345)| 🟢 Easy| Array/String|
 | 6       | 08/12/2024     | split string for more than multiple places   |Reverse Words in a String  (151)| 🟡 Medium| Array/String|
 | 7       | 09/12/2024     | Logical maths thinking, array|Product of Array Except Self  (238)| 🟡 Medium| Array/String|
-| 7       | 25/12/2024     | Logical maths thinking   |Increasing Triplet Subsequence  (334)| 🟡 Medium| Array/String|
-| 8       | 25/12/2024     | Logical maths thinking   |String Compression  (443)| 🟡 Medium| Array/String|
+| 8       | 25/12/2024     | Logical maths thinking   |Increasing Triplet Subsequence  (334)| 🟡 Medium| Array/String|
+| 9       | 25/12/2024     | Logical maths thinking   |String Compression  (443)| 🟡 Medium| Array/String|
 
 ## Connect
 If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
