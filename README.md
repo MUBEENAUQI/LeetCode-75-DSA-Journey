@@ -26,6 +26,9 @@ Each day focuses on specific topics and problem-solving skills.
 | 7       | 09/12/2024     | Logical maths thinking, array|Product of Array Except Self  (238)| 🟡 Medium| Array/String|
 | 8       | 25/12/2024     | Logical maths thinking   |Increasing Triplet Subsequence  (334)| 🟡 Medium| Array/String|
 | 9       | 25/12/2024     | Logical maths thinking   |String Compression  (443)| 🟡 Medium| Array/String|
+| 10       | 30/12/2024     | Array   | Move Zeroes  (283)|  🟢 Easy| Two Pointers|
+| 11       | 30/12/2024     | String   | Is Subsequence  (392)|  🟢 Easy| Two Pointers|
+
 
 ## Connect
 If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
