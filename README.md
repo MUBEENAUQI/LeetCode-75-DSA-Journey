@@ -29,7 +29,8 @@ Each day focuses on specific topics and problem-solving skills.
 | 10       | 30/12/2024     | Array   | Move Zeroes  (283)|  🟢 Easy| Two Pointers|
 | 11       | 30/12/2024     | String   | Is Subsequence  (392)|  🟢 Easy| Two Pointers|
 | 12       | 30/12/2024     | Array   | Container With Most Water  (11)|  🟡 Medium| Two Pointers|
-| 12       | 30/12/2024     | Array   | Max Number of K-Sum Pairs  (1679)|  🟡 Medium| Two Pointers|
+| 13       | 30/12/2024     | Array   | Max Number of K-Sum Pairs  (1679)|  🟡 Medium| Two Pointers|
+| 14       | 04/01/2025     | Array, min value   | Maximum Average Subarray I  (643)|  🟢 Easy| Sliding Window|
 
 ## Connect
 If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
