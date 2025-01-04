@@ -21,6 +21,8 @@ class Solution {
             }
             if(f>max)
             max = f;
+            if(max ==k)
+            break;
         }
         return max;
 
