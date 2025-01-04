@@ -31,6 +31,7 @@ Each day focuses on specific topics and problem-solving skills.
 | 12       | 30/12/2024     | Array   | Container With Most Water  (11)|  🟡 Medium| Two Pointers|
 | 13       | 30/12/2024     | Array   | Max Number of K-Sum Pairs  (1679)|  🟡 Medium| Two Pointers|
 | 14       | 04/01/2025     | Array, min value   | Maximum Average Subarray I  (643)|  🟢 Easy| Sliding Window|
+| 15       | 05/01/2025     | String   | Maximum Number of Vowels in a Substring of Given Length  (1456)|  🟡 Medium| Sliding Window|
 
 ## Connect
 If you have suggestions, find any issues with the solutions, or simply want to connect, feel free to reach out:
