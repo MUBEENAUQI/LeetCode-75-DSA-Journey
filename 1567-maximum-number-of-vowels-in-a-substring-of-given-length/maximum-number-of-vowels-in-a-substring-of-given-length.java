@@ -19,7 +19,7 @@ class Solution {
                 l++;
                 r++;
             }
-            if(f>max)
+            if(r>=k && f>max)
             max = f;
             if(max ==k)
             break;
