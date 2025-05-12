@@ -1,25 +1,19 @@
+import java.util.HashMap;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>(); // value -> index
 
-        int l = nums.length;
-        int a=0;
-        int b=0;
-        int flag =0;
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
 
-       for(int i=0;i<l-1;i++){
-        for(int j=i+1;j<l;j++){
-            if(nums[i]+nums[j]==target){
-                a = i;
-                b = j;
-                flag =1;
-                break;
+            if (map.containsKey(complement)) {
+                return new int[]{map.get(complement), i};
             }
-        }
-        if (flag == 1)
-        break;
-       }
 
-      
-       return new int[]{a,b};
+            map.put(nums[i], i);
+        }
+
+        throw new IllegalArgumentException("No two sum solution");
     }
 }
