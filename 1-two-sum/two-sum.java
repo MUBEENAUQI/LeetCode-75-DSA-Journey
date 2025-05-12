@@ -5,6 +5,7 @@ class Solution {
         int a=0;
         int b=0;
         int flag =0;
+
        for(int i=0;i<l-1;i++){
         for(int j=i+1;j<l;j++){
             if(nums[i]+nums[j]==target){
@@ -16,9 +17,9 @@ class Solution {
         }
         if (flag == 1)
         break;
-
        }
-        int[] arr = { a,b };
-       return arr;
+
+      
+       return new int[]{a,b};
     }
 }
